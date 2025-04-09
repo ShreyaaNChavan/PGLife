@@ -6,5 +6,5 @@
 
 Watch the video below to see a demo of the PG Life application:
 
-[![PG Life Demo](PGLifeOutput.mp4)
+[![PG Life Demo](PGLifeOutput.mp4)]
 
